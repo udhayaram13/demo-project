@@ -97,7 +97,7 @@
                         <embedded>
                             <groupId>com.project.aem</groupId>
                             <artifactId>demoproject.core</artifactId>
-                            <target>/apps/demoproject/install</target>
+                            <target>/apps/demoproject/install </target>
                         </embedded>
                     </embeddeds>
                     <subPackages>
